@@ -1,142 +1,142 @@
 {
   "dogs": [
     {
-      "name": "Gregorio",
-      "image": "/assets/blue-heeler.png",
-      "description": "yippee West Southeast West Officer program South",
-      "isFavorite": false,
+      "name": "Elza",
+      "image": "/assets/dalmation.png",
+      "description": "Sipes Southeast generate Hop braise Southwest hertz Kids",
+      "isFavorite": true,
       "id": 0
     },
     {
-      "name": "Chauncey",
-      "image": "/assets/corgi.png",
-      "description": "Account our Northwest Bacon Passenger Copernicium array Loan",
-      "isFavorite": false,
+      "name": "Adelle",
+      "image": "/assets/blue-heeler.png",
+      "description": "silver Ergonomic Northeast Executive Borders Southwest Health",
+      "isFavorite": true,
       "id": 1
     },
     {
-      "name": "Derek",
-      "image": "/assets/corgi.png",
-      "description": "down cyan jolly Namibia redundant Hat Arsenic",
+      "name": "Eldred",
+      "image": "/assets/dalmation.png",
+      "description": "Classical intranet Investment through fuchsia Malaysia FTP knowledgeable",
       "isFavorite": false,
       "id": 2
     },
     {
-      "name": "Tomas",
-      "image": "/assets/chihuahua.avif",
-      "description": "plum female reinvent Table boo steradian Technician",
-      "isFavorite": true,
+      "name": "Jaunita",
+      "image": "/assets/cowardly.png",
+      "description": "Bicycle leading Northeast virtual Lamborghini SUV Cambridgeshire Gloves",
+      "isFavorite": false,
       "id": 3
     },
     {
-      "name": "Vince",
-      "image": "/assets/dalmation.png",
-      "description": "Bypass Landing Southeast copying methodologies",
+      "name": "Alexa",
+      "image": "/assets/cowardly.png",
+      "description": "zowie Sports Fiji obnoxiously Health hierarchy faraway",
       "isFavorite": true,
       "id": 4
     },
     {
-      "name": "Elvie",
-      "image": "/assets/boxer.png",
-      "description": "Steel thankful where Pangender wireless Customer radian geez",
-      "isFavorite": false,
+      "name": "Pansy",
+      "image": "/assets/chihuahua.avif",
+      "description": "female Rubber Loan SUV Regional consequently radical",
+      "isFavorite": true,
       "id": 5
     },
     {
-      "name": "Pablo",
-      "image": "/assets/boxer.png",
-      "description": "networks web sediment Sedan North Run Rubber",
-      "isFavorite": false,
+      "name": "Lester",
+      "image": "/assets/corgi.png",
+      "description": "zero red maximized Phosphorus Northeast",
+      "isFavorite": true,
       "id": 6
     },
     {
-      "name": "Breanne",
+      "name": "Bethany",
       "image": "/assets/blue-heeler.png",
-      "description": "gladly Benz Hyundai SMTP extremist",
+      "description": "system Antonina neigh given woman calculate deposit",
       "isFavorite": false,
       "id": 7
     },
     {
-      "name": "Jessyca",
-      "image": "/assets/boxer.png",
-      "description": "Gorgeous Tennessee Manor Soft transmitting Utah Potassium cyan",
+      "name": "Antonia",
+      "image": "/assets/chihuahua.avif",
+      "description": "Peso overriding because greedily Littel",
       "isFavorite": true,
       "id": 8
     },
     {
-      "name": "Marlon",
-      "image": "/assets/chihuahua.avif",
-      "description": "East Bicycle Northwest syndicate meanwhile Usability Wooden",
-      "isFavorite": false,
+      "name": "Ulices",
+      "image": "/assets/cowardly.png",
+      "description": "haptic Savings heuristic Southeast a",
+      "isFavorite": true,
       "id": 9
     },
     {
-      "name": "Idell",
-      "image": "/assets/dalmation.png",
-      "description": "Hatchback Cadmium Northeast yahoo Minivan Kids intangible",
-      "isFavorite": true,
+      "name": "Rebecca",
+      "image": "/assets/blue-heeler.png",
+      "description": "CLI redundant male gently Ball Ergonomic green Northwest",
+      "isFavorite": false,
       "id": 10
     },
     {
-      "name": "Alford",
-      "image": "/assets/chihuahua.avif",
-      "description": "North pink Sedan HEX DRAM Bicycle Regional matrix",
-      "isFavorite": true,
+      "name": "Lynn",
+      "image": "/assets/cowardly.png",
+      "description": "Taiwan Palestine Bangladesh anti tesla",
+      "isFavorite": false,
       "id": 11
     },
     {
-      "name": "Darrell",
-      "image": "/assets/boxer.png",
-      "description": "indexing copy optimal molestiae Bedfordshire International Maryland",
-      "isFavorite": false,
+      "name": "Collin",
+      "image": "/assets/chihuahua.avif",
+      "description": "background yellow didactic SDD Trans male violet Customer",
+      "isFavorite": true,
       "id": 12
     },
     {
-      "name": "Lizeth",
-      "image": "/assets/cowardly.png",
-      "description": "however New Rubber cook Northwest",
-      "isFavorite": true,
+      "name": "Nola",
+      "image": "/assets/dalmation.png",
+      "description": "architecture Bespoke considering yawning Audi Carolina Computer kilogram",
+      "isFavorite": false,
       "id": 13
     },
     {
-      "name": "Weston",
-      "image": "/assets/blue-heeler.png",
-      "description": "port Diesel Realigned joule siemens hastily Electric psst",
-      "isFavorite": false,
+      "name": "Deondre",
+      "image": "/assets/cowardly.png",
+      "description": "payment aspernatur hm Generic Developer",
+      "isFavorite": true,
       "id": 14
     },
     {
-      "name": "Tate",
-      "image": "/assets/dalmation.png",
-      "description": "flamboyant Plastic M2F SCSI Funk impactful error Idaho",
+      "name": "Maryam",
+      "image": "/assets/corgi.png",
+      "description": "Thallium till Woman green Polestar",
       "isFavorite": false,
       "id": 15
     },
     {
-      "name": "Cortez",
-      "image": "/assets/dalmation.png",
-      "description": "perky Renminbi TCP maroon tempora",
-      "isFavorite": true,
+      "name": "Delta",
+      "image": "/assets/blue-heeler.png",
+      "description": "HDD Configurable male Automotive Bike pixel boo including",
+      "isFavorite": false,
       "id": 16
     },
     {
-      "name": "Reta",
-      "image": "/assets/chihuahua.avif",
-      "description": "woot Northeast tally Escudo hybridization",
-      "isFavorite": false,
+      "name": "Dayna",
+      "image": "/assets/dalmation.png",
+      "description": "Kia orchid plum female ubiquitous debar extensible",
+      "isFavorite": true,
       "id": 17
     },
     {
-      "name": "Margarete",
-      "image": "/assets/chihuahua.avif",
-      "description": "ampere technologies Actinium Investment accomplished protocol Buckinghamshire firmware",
+      "name": "Earline",
+      "image": "/assets/corgi.png",
+      "description": "becquerel Soft portals fuga Latin transmit concerning",
       "isFavorite": true,
       "id": 18
     },
     {
-      "name": "Evan",
-      "image": "/assets/corgi.png",
-      "description": "Shirt Bronze SSL versus voluptates",
+      "name": "Annamarie",
+      "image": "/assets/dalmation.png",
+      "description": "reproachfully Oregon within Automotive efficient Gibraltar deposit with",
       "isFavorite": false,
       "id": 19
     }

@@ -36,19 +36,17 @@ export const DogsProvider = ({ children }: { children: ReactNode }) => {
         updatedInfo.id === dog.id ? { ...dog, isFavorite: updatedInfo.isFavorite! } : dog
       )
     );
-    void Requests.patchFavoriteForDog(updatedInfo).then((response) => {
-      if (!response.ok) {
-        setAllDogs(allDogs);
-      } else return;
+    Requests.patchFavoriteForDog(updatedInfo).catch(() => {
+      setAllDogs(allDogs);
+      toast.error('Could not update status');
     });
   };
 
   const deleteDog = (id: number) => {
     setAllDogs(allDogs.filter((dog) => dog.id !== id));
-    void Requests.deleteDogRequest(id).then((response) => {
-      if (!response.ok) {
-        setAllDogs(allDogs);
-      } else return;
+    Requests.deleteDogRequest(id).catch(() => {
+      setAllDogs(allDogs);
+      toast.error('Could not delete dog');
     });
   };
 
@@ -59,7 +57,10 @@ export const DogsProvider = ({ children }: { children: ReactNode }) => {
       .then(() => {
         toast.success('Dog Created');
       })
-      .catch((err) => console.error('Error posting dogs', err))
+      .catch(() => {
+        setAllDogs(allDogs);
+        toast.error('Could not create dog');
+      })
       .finally(() => setIsLoading(false));
   };
 
